@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c47cbcdc-933f-4fcd-a611-8ac2988c075b/resourceGroups/YusufYesilkayCvResource/providers/Microsoft.Web/sites/YusufYesilkayaCv",
+    "appService.deploySubpath": ""
+}
